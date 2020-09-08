@@ -24,7 +24,7 @@ const BlogIndex = ({ data }, location) => {
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">
-          As storytellers that transform any concept into a unique visual language with a little bit of magic .
+          A Designer that transform any concept into a unique visual language with a little bit of magic .
           </h2>
         </header>
       )}
