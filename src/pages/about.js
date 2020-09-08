@@ -30,8 +30,7 @@ const AboutPage = ({ data }, location) => {
           </figure>
           <h3 id="dynamic-styles">Dynamic styles</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+          As visual storytellers we transform any concept into a unique visual language with a little bit of magic and fairy dust .
           </p>
           <p>
             Both post and page templates are light and minimal, with all the
