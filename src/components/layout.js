@@ -78,7 +78,7 @@ const Layout = props => {
         </div>
       </main>
       <footer className="site-foot">
-        &copy; {new Date().getFullYear()} <Link to={`/`}>{Rosa}</Link> &mdash;
+        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         Be{" "}
         <a
           href="https://gatsbyjs.org"
