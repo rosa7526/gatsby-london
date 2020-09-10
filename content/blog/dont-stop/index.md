@@ -15,4 +15,3 @@ also poses a certain degree of difficulty for bit elearning.
 ![Don't stop](./ian-dooley-298771-unsplash-1.jpg)
 
 
-![Don't stop](./ian-dooley-298780-unsplash-1.jpg)
