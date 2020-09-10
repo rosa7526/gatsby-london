@@ -66,7 +66,7 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                RSS
+                Instagram
               </Link>
             </div>
           </div>
@@ -78,14 +78,14 @@ const Layout = props => {
         </div>
       </main>
       <footer className="site-foot">
-        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
+        &copy; {new Date().getFullYear()} <Link to={`/`}>{Rosa}</Link> &mdash;
+        Be{" "}
         <a
           href="https://gatsbyjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Gatsby
+          Curious
         </a>
       </footer>
     </div>

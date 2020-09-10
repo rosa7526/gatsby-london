@@ -3,7 +3,7 @@ const siteConfig = require("./siteConfig")
 
 module.exports = {
   siteMetadata: {
-    title: rosa.name,
+    title: siteConfig.name,
     author: siteConfig.author,
     description: siteConfig.description,
     siteUrl: urljoin(siteConfig.url, siteConfig.prefix),
