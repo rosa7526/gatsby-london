@@ -21,7 +21,7 @@ const AboutPage = ({ data }, location) => {
             Clean, minimal, and deeply customisable. London is a theme made for
             people who appreciate simple lines.
           </h2>
-          <figure className="kg-card kg-image-card kg-width-wide">
+          <figure className="kg-card kg-image-card">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
