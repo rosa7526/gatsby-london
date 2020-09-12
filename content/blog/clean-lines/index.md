@@ -1,5 +1,5 @@
 ---
-title: <p>Product Design</p>Toxic Tuna<p>
+title: Product Design-Toxic Tuna
 date: "2019-05-05"
 thumbnail: ./matthew-hamilton-351641-unsplash.jpg
 description: Let your hair down and paint the town red
