@@ -2,7 +2,7 @@
 title: Product Design-Tape Dispenser
 date: "2019-05-08"
 thumbnail: ./bbbb.jpg
-description: Is it often the case that whether the obtained length is right when tearing the tape?
+description: Tape dispenser design & 3D modeling_2013
 ---
 
 ### A Tape Dispenser that can easy to know the weight.
