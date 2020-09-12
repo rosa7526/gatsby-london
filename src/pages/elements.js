@@ -18,195 +18,28 @@ const ElementsPage = ({ data }, location) => {
         keywords={[`blog`, `gatsby`, `javascript`, `react`]}
       />
 
-      <article className="post-content page-template no-image">
+
+<article className="post-content page-template no-image">
         <div className="post-content-body">
-          <p>
-            This is{" "}
-            <strong>
-              <strong>bold</strong>
-            </strong>{" "}
-            and this is{" "}
-            <strong>
-              <strong>strong</strong>
-            </strong>
-            . This is{" "}
-            <em>
-              <em>italic</em>
-            </em>{" "}
-            and this is{" "}
-            <em>
-              <em>emphasized</em>
-            </em>
-            . This is <sup>superscript</sup>text and this is{" "}
-            <sub>subscript</sub> text. This is <u>underlined</u> and this is
-            code:{" "}
-            <code>
-              for (;;) {"{"} ... {"}"}
-            </code>
-            . Finally, this is a <a href="#">link</a>.
-          </p>
-          <h2 id="heading-level-2">Heading Level 2</h2>
-          <h3 id="heading-level-3">Heading Level 3</h3>
-          <h4 id="heading-level-4">Heading Level 4</h4>
-          <h5 id="heading-level-5">Heading Level 5</h5>
-          <h6 id="heading-level-6">Heading Level 6</h6>
-          <hr />
-          <h2 id="this-is-a-section">This is a section</h2>
-          <p>
-            Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio
-            porttitor sem non mi integer non faucibus ornare mi ut ante amet
-            placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan
-            varius montes viverra nibh in adipiscing blandit tempus accumsan.
-          </p>
-          <h3 id="this-is-a-sub-section">This is a sub-section</h3>
-          <p>
-            Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio
-            porttitor sem non mi integer non faucibus ornare mi ut ante amet
-            placerat aliquet.
-          </p>
-          <h3 id="this-is-a-sub-section-1">This is a sub-section</h3>
-          <p>
-            Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio
-            porttitor sem non mi integer non faucibus ornare mi ut ante amet
-            placerat aliquet.
-          </p>
-          <hr />
-          <h2 id="lists">Lists</h2>
-          <h3 id="unordered">
-            <strong>
-              <strong>Unordered</strong>
-            </strong>
-          </h3>
-          <ul>
-            <li>Dolor pulvinar etiam.</li>
-            <li>Sagittis lorem eleifend.</li>
-            <li>Felis feugiat dolore viverra.</li>
-            <li>Dolor pulvinar etiam.</li>
-          </ul>
-          <h3 id="ordered">Ordered</h3>
-          <ol>
-            <li>Dolor pulvinar etiam.</li>
-            <li>Etiam vel felis at viverra.</li>
-            <li>Felis enim feugiat magna.</li>
-            <li>Etiam vel felis nullam.</li>
-            <li>Felis enim et tempus.</li>
-          </ol>
-          <h3 id="definition">
-            <strong>Definition</strong>
-          </h3>
-          <dl>
-            <dt>Item 1</dt>
-            <dd>
-              <p>
-                Lorem ipsum dolor vestibulum ante ipsum primis in faucibus
-                vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-                adipiscing accumsan eu faucibus. Integer ac pellentesque
-                praesent.
-              </p>
-            </dd>
-            <dt>Item 2</dt>
-            <dd>
-              <p>
-                Lorem ipsum dolor vestibulum ante ipsum primis in faucibus
-                vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-                adipiscing accumsan eu faucibus. Integer ac pellentesque
-                praesent.
-              </p>
-            </dd>
-            <dt>Item 3</dt>
-            <dd>
-              <p>
-                Lorem ipsum dolor vestibulum ante ipsum primis in faucibus
-                vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-                adipiscing accumsan eu faucibus. Integer ac pellentesque
-                praesent.
-              </p>
-            </dd>
-          </dl>
-          <hr />
-          <h2 id="blockquote">
-            <strong>Blockquote</strong>
-          </h2>
-          <blockquote>
-            Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis
-            sagittis eget tempus euismod. Vestibulum ante ipsum primis in
-            faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-            adipiscing accumsan faucibus. Vestibulum ante ipsum primis in
-            faucibus vestibulum. Blandit adipiscing eu felis.
-          </blockquote>
-          <hr />
-   
-          <h2 id="table">Table</h2>
-          <table>
-            <thead>
-              <tr>
-                <th>Name</th>
-                <th>Description</th>
-                <th>Price</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Item 1</td>
-                <td>Ante turpis integer aliquet porttitor.</td>
-                <td>29.99</td>
-              </tr>
-              <tr>
-                <td>Item 2</td>
-                <td>Vis ac commodo adipiscing arcu aliquet.</td>
-                <td>19.99</td>
-              </tr>
-              <tr>
-                <td>Item 3</td>
-                <td> Morbi faucibus arcu accumsan lorem.</td>
-                <td>29.99</td>
-              </tr>
-              <tr>
-                <td>Item 4</td>
-                <td>Vitae integer tempus condimentum.</td>
-                <td>19.99</td>
-              </tr>
-              <tr>
-                <td>Item 5</td>
-                <td>Ante turpis integer aliquet porttitor.</td>
-                <td>29.99</td>
-              </tr>
-            </tbody>
-            <tfoot>
-              <tr>
-                <td colSpan={2} />
-                <td>100.00</td>
-              </tr>
-            </tfoot>
-          </table>
-          <hr />
+    
+
           <h2 id="buttons">Buttons</h2>
-          <ul className="actions">
-            <li>
-              <a href="#" className="button primary">
-                Primary
-              </a>
-            </li>
-            <li>
-              <a href="#" className="button">
-                Default
-              </a>
-            </li>
-          </ul>
+
           <ul className="actions">
             <li>
               <a href="#" className="button primary large">
-                Adobe illustrator
+                Adobe Illustrator
               </a>
             </li>
             <li>
+            
               <a href="#" className="button">
-                Default
+              Adobe Photoshop
               </a>
             </li>
             <li>
-              <a href="#" className="button small">
-                Small
+              <a href="#" className="button primary large">
+              Adobe Lightroom
               </a>
             </li>
           </ul>
