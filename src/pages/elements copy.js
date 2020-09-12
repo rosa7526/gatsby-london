@@ -14,7 +14,7 @@ const ElementsPage = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="What can I do?"
+        title="All posts"
         keywords={[`blog`, `gatsby`, `javascript`, `react`]}
       />
 
@@ -135,7 +135,29 @@ const ElementsPage = ({ data }, location) => {
             faucibus vestibulum. Blandit adipiscing eu felis.
           </blockquote>
           <hr />
-   
+          <h2 id="images">Images</h2>
+          <figure className="kg-card kg-image-card">
+            <Img
+              fluid={data.smallPic.childImageSharp.fluid}
+              className="kg-image"
+            />
+            <figcaption>Regular image</figcaption>
+          </figure>
+          <figure className="kg-card kg-image-card kg-width-wide">
+            <Img
+              fluid={data.medPic.childImageSharp.fluid}
+              className="kg-image"
+            />
+            <figcaption>Large image</figcaption>
+          </figure>
+          <figure className="kg-card kg-image-card kg-width-full">
+            <Img
+              fluid={data.largePic.childImageSharp.fluid}
+              className="kg-image"
+            />
+            <figcaption>Full bleed image</figcaption>
+          </figure>
+          <hr />
           <h2 id="table">Table</h2>
           <table>
             <thead>
@@ -196,7 +218,7 @@ const ElementsPage = ({ data }, location) => {
           <ul className="actions">
             <li>
               <a href="#" className="button primary large">
-                Adobe illustrator
+                Large
               </a>
             </li>
             <li>
