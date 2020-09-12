@@ -25,7 +25,7 @@ const ElementsPage = ({ data }, location) => {
 
           <h2 id="buttons">Graphic Design</h2>
 
-          <ul className="actions">
+          <ul className="actions fit">
             <li>
               <a href="#" className="button primary fit">
                 Adobe Illustrator
@@ -45,7 +45,7 @@ const ElementsPage = ({ data }, location) => {
           </ul>
           <h2 id="buttons">Industrial Design</h2>
 
-          <ul className="actins fit">
+          <ul className="actions fit">
           <li>
               <a href="#" className="button primary fit">
               Rhinoceros
@@ -59,7 +59,7 @@ const ElementsPage = ({ data }, location) => {
           </ul>
           <h2 id="buttons">Web Design</h2>
 
-<ul className="actions">
+<ul className="actions fit">
   <li>
     <a href="#" className="button primary fit">
       Wordpress
@@ -78,14 +78,7 @@ const ElementsPage = ({ data }, location) => {
   </li>
 </ul>
           
-          <ul className="actions">
-            <li>
-              <span className="button primary disabled">Primary</span>
-            </li>
-            <li>
-              <span className="button disabled">Default</span>
-            </li>
-          </ul>
+    
           <hr />
           <h2 id="forms">Forms</h2>
           <form method="post" action="#">
