@@ -18,7 +18,8 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Hi,I'm Lin Hsing Jung.A designer work in Osaka,Japan.
+          <p>
+        Hi,I'm Lin Hsing Jung.</p><p>A designer work in Osaka,Japan.</p>
           </h2>
           <figure className="kg-card kg-image-card">
             <Img
@@ -28,6 +29,11 @@ const AboutPage = ({ data }, location) => {
             <figcaption>Always think 'outside the box'.</figcaption>
           </figure>
           <h3 id="dynamic-styles">About me</h3>
+          <p>1994年　台湾台南市生まれ。</p>
+          <p>2017年日本京都工芸繊維大学デザイン経営学部で留学プログラム修了。 2018年台湾大同大学大学院インダストリアルデザイン学専攻修士課程修了。</p>
+          <p>台湾のデザイン会社事務所に1年勤めた後、自分に新たな環境を挑戦したいと思い、2019年に日本へ。
+アパレル業界を経て、大阪梅田でデザイナーとして働いています。</p>
+<p>趣味は、日常中の非日常を発見、色々な出会いを楽しむこと。 最近の楽しみは季節ごとの食材での料理作り。</p>
           <p>
           Born in Taiwan ,Tainan in 1994.
 Lin attended the international student exchange program of
