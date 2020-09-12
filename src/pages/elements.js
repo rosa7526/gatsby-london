@@ -87,7 +87,13 @@ const ElementsPage = ({ data }, location) => {
   </li>
 </ul>
 <h2 id="buttons">And More++</h2> 
-    
+<ul className="actions fit">
+<li>
+    <a href="#" className="button primary fit">
+    Stay Curious
+    </a>
+  </li>
+</ul>
           <hr />
         </div>
       </article>
