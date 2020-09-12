@@ -29,6 +29,7 @@ const AboutPage = ({ data }, location) => {
             <figcaption>Always think 'outside the box'.</figcaption>
           </figure>
           <h3 id="dynamic-styles">About me</h3>
+          <p>林　幸蓉　Lin,Hsing_Jung</p>
           <p>1994年　台湾台南市生まれ。</p>
           <p>2017年日本京都工芸繊維大学デザイン経営学部で留学プログラム修了。 2018年台湾大同大学大学院インダストリアルデザイン学専攻修士課程修了。</p>
           <p>台湾のデザイン会社事務所に1年勤めた後、自分に新たな環境を挑戦したいと思い、2019年に日本へ。
