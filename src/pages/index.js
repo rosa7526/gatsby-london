@@ -26,8 +26,8 @@ const BlogIndex = ({ data }, location) => {
           <h2 className="page-head-title">
           <p>Lin,Hsing_Jung</p>
           <p>A Designer that transform any concept into a unique </p>
-          <p>visual language with a little bit of magic ./p</p>
-          <p>More works coming soon.</p>
+          <p>visual language with a little bit of magic .</p>
+          
           </h2>
         </header>
       )}
