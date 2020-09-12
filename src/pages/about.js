@@ -18,35 +18,37 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+            Hi,I'm Lin Hsing Jung.A designer work in Osaka,Japan.
           </h2>
           <figure className="kg-card kg-image-card">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
+            <figcaption>Always think 'outside the box'.</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          <h3 id="dynamic-styles">About me</h3>
           <p>
-          As visual storytellers we transform any concept into a unique visual language with a little bit of magic and fairy dust .
+          Born in Taiwan ,Tainan in 1994.
+Lin attended the international student exchange program of
+ Kyoto Institute Of Technology from 2017 to 2018 . 
+ In the same year she complete the Master's degree in 
+ industrial design from Tatung University in Taipei Taiwan.
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
+          With a degree in industrial design, 
+          she has been work at a design studio in Taiwan for 1 year. 
+          Since then , she moved to Osaka, Japan in 2019.
+           After worked as a salesgirl at a clothing store for several 
+           months ,with a resounding passion for design,
+           she made her mind to keep going on her career as a designer.
           </p>
           <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+          She enjoys all that the city life in Osaka , 
+          and loves to be challenged to think 'outside the box', 
+          and use creative and strategic ideas to explore, 
+          learn and adapt.Outside of work, 
+          her main passions are making healthy food with seasonal ingredient.
           </p>
         </div>
       </article>
