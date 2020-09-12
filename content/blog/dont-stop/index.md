@@ -2,7 +2,7 @@
 title: Exhibition Design - The Bento reform project
 date: "2019-05-07"
 thumbnail: ./ian-dooley-298769-unsplash.jpg
-description: Pink is my favourite colour. I used to say my favourite colour was black to be cool, but it is pink - all shades of pink. If I have an accessory, it is probably pink.
+description: Exhibition Design_2016
 ---
 
 ### The Bento reform project
@@ -13,6 +13,7 @@ also poses a certain degree of difficulty for bit elearning.
 
 
 ![Don't stop](./ian-dooley-298771-unsplash-1.jpg)
+### Poster Design
 ![Don't stop](./Big Bento Redo.jpg)
 ![Don't stop](./Edible Tales.jpg)
 ![Don't stop](./Street Food Evolution.jpg)
