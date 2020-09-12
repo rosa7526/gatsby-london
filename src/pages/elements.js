@@ -23,29 +23,29 @@ const ElementsPage = ({ data }, location) => {
         <div className="post-content-body">
     
 
-          <h2 id="buttons">Buttons</h2>
+          <h2 id="buttons">Adobe</h2>
 
           <ul className="actions">
             <li>
-              <a href="#" className="button primary large">
+              <a href="#" className="button primary fit">
                 Adobe Illustrator
               </a>
             </li>
             <li>
             
-              <a href="#" className="button">
+              <a href="#" className="button fit">
               Adobe Photoshop
               </a>
             </li>
             <li>
-              <a href="#" className="button primary large">
+              <a href="#" className="button fit">
               Adobe Lightroom
               </a>
             </li>
           </ul>
           <ul className="actions fit">
             <li>
-              <a href="#" className="button primary fit">
+              <a href="#" className="button fit">
                 Fit
               </a>
             </li>
@@ -174,20 +174,7 @@ const ElementsPage = ({ data }, location) => {
               </div>
             </div>
           </form>
-          <h2 id="code">Code</h2>
-          <pre>
-            <code>
-              i = 0;{"\n"}
-              {"\n"}while (!deck.isInOrder()) {"{"}
-              {"\n"}
-              {"    "}print 'Iteration ' + i;{"\n"}
-              {"    "}deck.shuffle();{"\n"}
-              {"    "}i++;{"\n"}
-              {"}"}
-              {"\n"}
-              {"\n"}print 'It took ' + i + ' iterations to sort the deck.';
-            </code>
-          </pre>
+        
           <h2 id="grid-system">Grid system</h2>
           <div className="row">
             <div className="col-12">
