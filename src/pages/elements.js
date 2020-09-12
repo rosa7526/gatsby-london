@@ -43,9 +43,18 @@ const ElementsPage = ({ data }, location) => {
               </a>
             </li>
           </ul>
+          <h2 id="buttons">Motion Design</h2>
+          <ul className="actions fit">
+          <li>
+              <a href="#" className="button primary fit">
+              Adobe After Effect
+              </a>
+            </li>
+          </ul> 
           <h2 id="buttons">Industrial Design</h2>
 
           <ul className="actions fit">
+          
           <li>
               <a href="#" className="button primary fit">
               Rhinoceros
@@ -80,7 +89,7 @@ const ElementsPage = ({ data }, location) => {
           
     
           <hr />
-          <h2 id="forms">Forms</h2>
+          <h2 id="forms">Contect Me</h2>
           <form method="post" action="#">
             <div className="row gtr-uniform">
               <div className="col-6 col-12-xsmall">
@@ -179,149 +188,8 @@ const ElementsPage = ({ data }, location) => {
             </div>
           </form>
         
-          <h2 id="grid-system">Grid system</h2>
-          <div className="row">
-            <div className="col-12">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                12
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-3">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                3
-              </div>
-            </div>
-            <div className="col-9">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                9
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-6">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                6
-              </div>
-            </div>
-            <div className="col-6">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                6
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-            <div className="col">
-              <div
-                style={{
-                  padding: "1rem 0",
-                  textAlign: "center",
-                  background: "#eee",
-                }}
-              >
-                auto
-              </div>
-            </div>
-          </div>
+         
+          
         </div>
       </article>
     </Layout>
