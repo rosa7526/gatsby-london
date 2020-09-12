@@ -1,5 +1,5 @@
 ---
-title: Graphic Design-Esras Cafe
+title: Graphic Design-Esras Café
 date: "2019-05-04"
 thumbnail: ./charles-deluvio-695732-unsplash.jpg
 description: Menu redesign & Photography
