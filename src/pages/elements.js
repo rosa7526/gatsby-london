@@ -23,7 +23,7 @@ const ElementsPage = ({ data }, location) => {
         <div className="post-content-body">
     
 
-          <h2 id="buttons">Adobe</h2>
+          <h2 id="buttons">Graphic Design</h2>
 
           <ul className="actions">
             <li>
@@ -38,35 +38,46 @@ const ElementsPage = ({ data }, location) => {
               </a>
             </li>
             <li>
-              <a href="#" className="button fit">
+              <a href="#" className="button primary fit">
               Adobe Lightroom
               </a>
             </li>
           </ul>
-          <ul className="actions fit">
-            <li>
-              <a href="#" className="button fit">
-                Fit
+          <h2 id="buttons">Industrial Design</h2>
+
+          <ul className="actins fit">
+          <li>
+              <a href="#" className="button primary fit">
+              Rhinoceros
               </a>
             </li>
             <li>
               <a href="#" className="button fit">
-                Fit
+                Alias
               </a>
             </li>
           </ul>
-          <ul className="actions fit small">
-            <li>
-              <a href="#" className="button primary fit small">
-                Fit + Small
-              </a>
-            </li>
-            <li>
-              <a href="#" className="button fit small">
-                Fit + Small
-              </a>
-            </li>
-          </ul>
+          <h2 id="buttons">Web Design</h2>
+
+<ul className="actions">
+  <li>
+    <a href="#" className="button primary fit">
+      Wordpress
+    </a>
+  </li>
+  <li>
+  
+    <a href="#" className="button fit">
+    GitHub
+    </a>
+  </li>
+  <li>
+    <a href="#" className="button primary fit">
+    Netlify
+    </a>
+  </li>
+</ul>
+          
           <ul className="actions">
             <li>
               <span className="button primary disabled">Primary</span>
