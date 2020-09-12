@@ -1,8 +1,8 @@
 ---
-title: Green
+title: Product Design_Stroll Bike
 date: "2019-05-03"
 thumbnail: ./dose-juice-1184429-unsplash.jpg
-description: For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver.
+description: Product Design_2016
 ---
 
 ![Green](./chuttersnap-564286-unsplash.jpg)

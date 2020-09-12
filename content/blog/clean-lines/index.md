@@ -14,6 +14,3 @@ are global and even influence the food on our plates.
 
 ![Clean lines](./mitch-lensink-588486-unsplash.jpg)
 
-![Clean lines](./ricardo-gomez-angel-180819-unsplash.jpg)
-
-![Clean lines](./joanna-kosinska-254406-unsplash.jpg)
