@@ -86,6 +86,12 @@ const ElementsPage = ({ data }, location) => {
     </a>
   </li>
 </ul>
+<li>
+  
+  <a href="#" className="button fit">
+  Adobe XD
+  </a>
+</li>
 <h2 id="buttons">And More++</h2> 
 <ul className="actions fit">
 <li>
