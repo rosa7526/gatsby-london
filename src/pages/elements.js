@@ -85,13 +85,13 @@ const ElementsPage = ({ data }, location) => {
     Netlify
     </a>
   </li>
-</ul>
+
 <li>
-  
   <a href="#" className="button fit">
   Adobe XD
   </a>
 </li>
+</ul>
 <h2 id="buttons">And More++</h2> 
 <ul className="actions fit">
 <li>
