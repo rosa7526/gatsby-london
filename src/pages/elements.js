@@ -27,18 +27,18 @@ const ElementsPage = ({ data }, location) => {
 
           <ul className="actions fit">
             <li>
-              <a href="#" className="button primary fit">
+              <a href="https://rosaportfoliodemo-1.netlify.app/get-fruity/" className="button primary fit">
                 Adobe Illustrator
               </a>
             </li>
             <li>
             
-              <a href="#" className="button fit">
+              <a href="#https://rosaportfoliodemo-1.netlify.app/all-spikes/" className="button fit">
               Adobe Photoshop
               </a>
             </li>
             <li>
-              <a href="#" className="button primary fit">
+              <a href="https://rosaportfoliodemo-1.netlify.app/all-spikes/" className="button primary fit">
               Adobe Lightroom
               </a>
             </li>
@@ -46,7 +46,7 @@ const ElementsPage = ({ data }, location) => {
           <h2 id="buttons">Motion Design</h2>
           <ul className="actions fit">
           <li>
-              <a href="#" className="button primary fit">
+              <a href="https://rosaportfoliodemo-1.netlify.app/hello-world/" className="button primary fit">
               Adobe After Effect
               </a>
             </li>
@@ -56,12 +56,12 @@ const ElementsPage = ({ data }, location) => {
           <ul className="actions fit">
           
           <li>
-              <a href="#" className="button primary fit">
+              <a href="https://rosaportfoliodemo-1.netlify.app/clean-lines/" className="button primary fit">
               Rhinoceros
               </a>
             </li>
             <li>
-              <a href="#" className="button fit">
+              <a href="#https://rosaportfoliodemo-1.netlify.app/green/" className="button fit">
                 Alias
               </a>
             </li>
@@ -70,7 +70,7 @@ const ElementsPage = ({ data }, location) => {
 
 <ul className="actions fit">
   <li>
-    <a href="#" className="button primary fit">
+    <a href="https://rosaportfoliodemo-1.netlify.app/its-all-blue/#" className="button primary fit">
       Wordpress
     </a>
   </li>
@@ -87,7 +87,7 @@ const ElementsPage = ({ data }, location) => {
   </li>
 
 <li>
-  <a href="#" className="button fit">
+  <a href="https://rosaportfoliodemo-1.netlify.app/hello-world/#" className="button fit">
   Adobe XD
   </a>
 </li>
