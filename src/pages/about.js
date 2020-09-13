@@ -57,6 +57,9 @@ Lin attended the international student exchange program of
           learn and adapt.Outside of work, 
           her main passions are making healthy food with seasonal ingredient.
           </p>
+          <h3 id="dynamic-styles">Award</h3>
+          2018 <a href="https://rosaportfoliodemo-1.netlify.app/fur/">第65回 日本デザイン学会春季研究発表大会 グッドプレゼンテーション賞</a>
+          Check the site:<a href="http://www.oit.ac.jp/rd/jssd2018/">グッドプレゼンテーション賞一覧</a>.
         </div>
       </article>
     </Layout>
