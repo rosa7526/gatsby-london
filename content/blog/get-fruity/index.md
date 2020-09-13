@@ -9,4 +9,3 @@ description: Design for CPH MOTO  ART_2015
 ![Fruits](./mike-dorner-173503-unsplash.jpg)
 ![Fruits](./mike-dorner-173504-unsplash.jpg)
 
-</div>
