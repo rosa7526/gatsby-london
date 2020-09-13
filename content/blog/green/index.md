@@ -28,4 +28,3 @@ a product that would grow with the child.
 
 ![Green](./josh-silver-730329-unsplash.jpg)
 
-![Green](./roman-bozhko-251947-unsplash.jpg)
