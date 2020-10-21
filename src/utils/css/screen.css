@@ -485,7 +485,7 @@ body {
 .post-card.no-image .post-card-title {
     font-size: 5rem;
     line-height: 1.15em;
-    text-align: left;
+    text-align: center;
 }
 
 .post-card.no-image:hover .post-card-title {
