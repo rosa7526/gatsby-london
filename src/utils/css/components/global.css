@@ -291,6 +291,8 @@ hr {
     border-top: 1px solid color(var(--color-border) l(+10%));
 }
 
+embed,
+object,
 audio,
 canvas,
 iframe,
