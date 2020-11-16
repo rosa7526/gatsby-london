@@ -6,5 +6,8 @@ description: HowGui CIS Project_2013
 ---
 
 ![my-second-post](./how_1.jpg)
+農家の力を集めて、ひかりになるを表現しています。
+ロゴ全体的明るいのイメージを伝える様に、
+色とアウトラインの活発さにデザインポイントします。
 ![my-second-post](./how_2.jpg)
 
