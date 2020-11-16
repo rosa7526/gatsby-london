@@ -1,8 +1,8 @@
 ---
-title: Graphic Design_HowGui
+title: Graphic Design_AKARI Farm
 date: "2015-05-06T23:46:37.121Z"
 thumbnail: ./how.jpg
-description: HowGui CIS Project_2013
+description: AKARI CIS Project_2013
 ---
 
 ![my-second-post](./how_1.jpg)
