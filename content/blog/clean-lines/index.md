@@ -1,8 +1,8 @@
 ---
-title: Product Design-Toxic Tuna
+title: Product Design-ASAGAO SAIBAI KIT
 date: "2019-05-05"
 thumbnail: ./matthew-hamilton-351641-unsplash.jpg
-description: Sauce Dish Design_2016
+description: Teaching Aids Design_2020
 ---
 ### Design Background
 
