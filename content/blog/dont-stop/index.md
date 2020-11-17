@@ -13,10 +13,7 @@ creativity. However, it is impossible to foresee the purchase of ingredients in 
 ![Don't stop](./ex_1.jpg)
 ![Don't stop](./ex_2.jpg)
 ![Don't stop](./ian-dooley-298771-unsplash-1.jpg)
-### Poster Design
-![Don't stop](./Big Bento Redo.jpg)
-![Don't stop](./Edible Tales.jpg)
-![Don't stop](./Street Food Evolution.jpg)
+
 
 
 
