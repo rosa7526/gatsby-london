@@ -1,7 +1,7 @@
 ---
 title: Graphic Design-Esras Café
 date: "2019-05-04"
-thumbnail: ./charles-deluvio-695732-unsplash.jpg
+thumbnail: ./charles-deluvio-695758-unsplash.jpg
 description: Menu redesign & Photography_2020
 ---
 Check the site:<a href="https://foodwebpage.netlify.app">Esras Café</a>.
