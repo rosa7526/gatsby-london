@@ -61,12 +61,13 @@ const Layout = props => {
                 Twitter
               </a>
               <Link
-                to={`/rss.xml`}
+                href="https://www.instagram.com/hsing_jung"
                 title="RSS"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 Instagram
+                
               </Link>
             </div>
           </div>
