@@ -1,6 +1,6 @@
 ---
 title: Product Design-ASAGAO SAIBAI KIT
-date: "2019-05-05"
+date: "2019-10-05"
 thumbnail: ./matthew-hamilton-351641-unsplash.jpg
 description: Teaching Aids Design_2020
 ---

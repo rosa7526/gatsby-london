@@ -1,6 +1,6 @@
 ---
 title: Exhibition Design - The Bento reform project
-date: "2019-05-07"
+date: "2020-04-01"
 thumbnail: ./ian-dooley-298769-unsplash.jpg
 description: Exhibition Design_2016
 ---

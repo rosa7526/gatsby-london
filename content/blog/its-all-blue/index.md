@@ -1,6 +1,6 @@
 ---
 title: Web Design-Amenoma
-date: "2019-05-06"
+date: "2020-03-06"
 thumbnail: ./cody-davis-253928-unsplash.jpg
 description: My First Web Design Project._2019
 ---

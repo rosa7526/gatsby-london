@@ -1,6 +1,6 @@
 ---
 title: Thesis Publication_Bento Box Design
-date: "2019-05-01"
+date: "2020-05-01"
 thumbnail: ./charles-deluvio-550068-unsplash.jpg
 description: 第65回 日本デザイン学会春季研究発表大会 グッドプレゼンテーション賞
 ---

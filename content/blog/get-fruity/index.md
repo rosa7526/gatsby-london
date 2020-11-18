@@ -1,6 +1,6 @@
 ---
 title: Graphic Design_AKARI Farm
-date: "2015-05-06T23:46:37.121Z"
+date: "2020-02-06T23:46:37.121Z"
 thumbnail: ./how.jpg
 description: AKARI CIS Project_2020
 ---
