@@ -6,13 +6,12 @@ description: We Design & Menu redesign & Photography_2020
 ---
 ### Web Design
 Check the site:<a href="https://foodwebpage.netlify.app">Esras Café</a>.
-### Web Design
 ![Cactus](./01.png)
 ![Cactus](./02.png)
 ### Menu Design
-## Lunch Menu
+#### Lunch Menu
 ![Cactus](./03.png)
-Dinner Menu
+#### Dinner Menu
 ![Cactus](./charles-deluvio-695732-unsplash.jpg)
 ![Cactus](./charles-deluvio-695757-unsplash.jpg)
 ### Photography
