@@ -11,6 +11,9 @@ Check the site:<a href="https://20201005logodemo1.netlify.app">Motion logo demo<
 ### Cyberpunk Glitch Transitions in After Effects
 ![hello-world](./02.jpg)
 Check the site:<a href="https://20201005logodemo3.netlify.app">Motion logo demo</a>.
+### Neon Text in After Effects
+![hello-world](./04.jpg)
+Check the site:<a href="https://20201005logodemo2.netlify.app">Motion logo demo</a>.
 ### Liquid Neon Animation in After Effects 
 ![hello-world](./03.jpg)
 Check the site:<a href="https://20201005logodemo4.netlify.app">Motion logo demo</a>.
