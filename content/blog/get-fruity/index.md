@@ -16,5 +16,15 @@ description: AKARI CIS Project_2020
 ロゴ全体的明るいのイメージを伝える様に、
 色とアウトラインの活発さにデザインポイントします。
 ![my-second-post](./how_2.jpg)
+![my-second-post](./how_3.jpg)
+### Proposal_3
+![my-second-post](./03.jpg)
+丹波の土地をベース、畑と山を表現した等高線
+のラインと組み合わせて、
+ロゴ全体的に丸みを表現し、活発のイメージを
+伝える様にします。
+![my-second-post](./04.jpg)
+![my-second-post](./05.jpg)
+
 
 
