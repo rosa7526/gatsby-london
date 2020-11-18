@@ -15,5 +15,5 @@ Check the site:<a href="https://20201005logodemo3.netlify.app">Motion logo demo_
 Check the site:<a href="https://20201005logodemo2.netlify.app">Motion logo demo_3</a>.
 ![hello-world](./04.jpg)
 ### Liquid Neon Animation in After Effects 
-Check the site:<a href="https://20201005logodemo4.netlify.app">Motion logo demo_4</a>.
+Check the site:<a href="https://logodemo4.netlify.app">Motion logo demo_4</a>.
 ![hello-world](./03.jpg)
