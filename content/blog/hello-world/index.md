@@ -6,14 +6,14 @@ description: Demo Project_2020
 ---
 
 ### Liquid Text Animation in After Effects 
+Check the site:<a href="https://20201005logodemo1.netlify.app">Motion logo demo_1</a>.
 ![hello-world](./01.jpg)
-Check the site:<a href="https://20201005logodemo1.netlify.app">Motion logo demo</a>.
 ### Cyberpunk Glitch Transitions in After Effects
+Check the site:<a href="https://20201005logodemo3.netlify.app">Motion logo demo_2</a>.
 ![hello-world](./02.jpg)
-Check the site:<a href="https://20201005logodemo3.netlify.app">Motion logo demo</a>.
 ### Neon Text in After Effects
+Check the site:<a href="https://20201005logodemo2.netlify.app">Motion logo demo_3</a>.
 ![hello-world](./04.jpg)
-Check the site:<a href="https://20201005logodemo2.netlify.app">Motion logo demo</a>.
 ### Liquid Neon Animation in After Effects 
+Check the site:<a href="https://20201005logodemo4.netlify.app">Motion logo demo_4</a>.
 ![hello-world](./03.jpg)
-Check the site:<a href="https://20201005logodemo4.netlify.app">Motion logo demo</a>.
